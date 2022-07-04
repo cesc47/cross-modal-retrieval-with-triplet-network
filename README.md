@@ -68,7 +68,7 @@ In the following images it can be seen the qualitative results for the Text-to-I
 
 
 ## Documentation
-A paper in the CVPR format corresponding to all the tasks and experiments devoted to Cross-modal retrieval have been written by us. It is available at: [Paper](https://www.overleaf.com/5374743577rshpmzsgynjj)
+A paper in the CVPR format corresponding to all the tasks and experiments devoted to Cross-modal retrieval have been written by us. It is available at: [Paper]([https://www.overleaf.com/5374743577rshpmzsgynjj](https://github.com/cesc47/cross-modal-retrieval-with-triplet-network/blob/main/Cross-Modal-Retrieval-Triplet.pdf))
 
 ## Final discussion about the results
 Quantitative results with map are rather poor because the method is not able to catch the details in the image and text semantics. Also there are a lot of candidate retrievals that are plausible.
